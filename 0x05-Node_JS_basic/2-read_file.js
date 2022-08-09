@@ -18,8 +18,3 @@ const countStudents = (aPath) => {
     throw new Error('Cannot load the database');
   }
 };
-module.exports = countStudents;
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
